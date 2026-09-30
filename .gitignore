@@ -1,0 +1,10 @@
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+screenshot_mobile.png
+
+# Editor and IDE
+.vscode/
+.idea/
+.agents/
